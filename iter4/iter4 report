@@ -1,0 +1,5 @@
+In this iteration, we almost wrapped everything up. We enriched the UI by including more functionalities to cope with edge cases. 
+Users can upload APKs and get the results analyzed by the Flowdroid tool. The Vuejs frontend and Django backend interacts correctly.
+
+One difficult that we currently encountered is that we couldn't communicates with the Flowdroid service. 
+We will turn in the final report later.

@@ -1,0 +1,4 @@
+
+We spend time on learning how to set up Google Kubernetes, which was used by previous teams as the platform to launch cluster. Instead of using AWS Cloud 9 fue to cost concerns, the previous product owner recommended to use the Google Kubernetes as an alternative.
+It is quite complicatd to figure out how to configure a kybernetes cluster. Thus we started from learning fundamental materials and following available tutorials. In conjunction, we have summerzied a brief introduction regarding rescourses we find/use. More deatils can be found in this directory.
+We are working on set up the Django server. The goal is when people upload a apk, it will be stored on Google Cloud storage.

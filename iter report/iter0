@@ -1,0 +1,13 @@
+Project: Web Android Static Analysis Tools
+Iteration 0
+
+This week our team first scheduled a meeting with our customer, Dr. Jeff Huang, to discuss the overarching goal and requirements of this project. The overall picture of this project is to develop a serverless web-based analysis tool that can scan and track potential vulnerabilities in Android applications through Cloud. Techniques required for the product development mainly includes Python/Django and node.js. 
+After our discussion, we currently proposed several user stories that we planned to achieve as follows:
+1.	Build an Error-Handling or Warning Functionality When Input Is Fallacious 
+Scenario: It is surprisingly common that users provide input that are incorrect  or incompatible with the APK analyzer. Therefore, it would be of critical importance for a SaaS to notify users when such mistakes occur.
+2.	Enrich the user instructions
+Scenario: A reader-friendly tutorials enable users to quickly learn how to start and proceed. Thus, a detailed user guide would be essential for the  popularity of the developed tool package. 
+3.	Establish a thorough user acceptance test
+Scenario: A decent SAAS needs a thorough user acceptance test for users. We plan to spend reasonable amount of time to create test cases for this project.
+4.	Implement the developer API
+Scenario: Since we plan to accomplish a Android APK analysis service, it is desirable to implement a developer API. The users’ request, therefore, can be responded on time.

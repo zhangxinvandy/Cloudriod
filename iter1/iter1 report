@@ -1,0 +1,21 @@
+
+Project: Web Android Static Analysis Tools
+Iteration 1
+
+This week our team scheduled with a meeting with Brad Swain, who is the former product owner of this legacy project, to discuss the handovers of this project. Due to the cost considerations, he suggested us to start with deploying the application on the local cloud services (such as AWS) first, to prevent the cost and budget of setting up Google Cloud Kubernetes + docker. This short-term target was also supported by our customer, Dr. Jeff Huang. After the discussion, Mr. Swain also sent us the legacy code of its Backend works on Sunday, which is a Django framework.
+After our discussion, we currently proposed several user stories that we planned to achieve as follows:
+1.	Build an Error-Handling or Warning Functionality When Input Is Fallacious 
+Scenario: It is surprisingly common that users provide input that are incorrect or incompatible with the APK analyzer. Therefore, it would be of critical importance for a SaaS to notify users when such mistakes occur.
+Current Status: Start designing the methods and procedures of the function.
+
+2.	Enrich the user instructions
+Scenario: A reader-friendly tutorials enable users to quickly learn how to start and proceed. Thus, a detailed user guide would be essential for the popularity of the developed tool package. 
+Current Status: Studying the  Django framework of the legacy code.
+
+3.	Establish a thorough user acceptance test
+Scenario: A decent SAAS needs a thorough user acceptance test for users. We plan to spend reasonable amount of time to create test cases for this project.
+Current Status: More efforts will be dedicated.
+
+4.	Implement the developer API
+Scenario: Since we plan to accomplish a Android APK analysis service, it is desirable to implement a developer API. The users’ request, therefore, can be responded on time.
+Current Status: More efforts will be dedicated.

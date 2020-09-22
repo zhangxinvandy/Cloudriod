@@ -1,0 +1,6 @@
+In this iteration, we worked on setting up the django API that returns a list of reports associated with the user. The detailed description and cooresponding results can be viewed in the same folder.
+
+In order to view analysis result, we will investigate how to link our API with existing APK platform and make it respond to our request.
+
+The remaining user story will focus on add more test corner cases to enrich available functionalities of developed package.
+
